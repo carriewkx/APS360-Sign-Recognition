@@ -3,7 +3,7 @@ Team project for APS 360
 
 Team Members:
 - Eddie
-- Rebbeca
+- Rebecca
 - Joni
 - Carrie
 
